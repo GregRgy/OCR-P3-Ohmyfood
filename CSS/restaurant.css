@@ -20,9 +20,10 @@ a {
   font-size: 1.2rem;
   color: #000;
 }
-
-.main {
+main {
   position: relative;
+  max-width: 1000px;
+  margin: auto;
 }
 .restaurant-menu-image {
   object-fit: cover;

@@ -9,7 +9,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  animation: fadeout 0.2s 3s forwards;
+  animation: fadeout 0.2s 0.75s forwards;
 }
 .spinner-large {
   position: absolute;
