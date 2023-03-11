@@ -15,7 +15,7 @@ body {
   font-size: 1.6rem;
 }
 main{
-  max-width: 1000px;
+  max-width: 1200px;
   margin: auto;
 }
 a {
@@ -123,6 +123,8 @@ a {
 .restaurant-section {
   background: #f6f6f6;
   padding: 6rem 2rem;
+  border-radius: 15px;
+  margin-bottom: 7rem;
 }
 .title-section {
   margin-bottom: 2rem;
