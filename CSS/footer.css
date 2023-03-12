@@ -1,10 +1,21 @@
-.footer {
+.footer, .fotter-elements {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+.footer{
+  background: #353535;
+}
+.footer-elements{
   width: 100%;
   background: #353535;
   color: white;
   padding: 3rem;
   display: flex;
   flex-direction: column;
+  max-width: 1280px;
+  margin: auto;
+  position: relative;
 }
 .footer-title {
   font-family: "Shrikhand", cursive;
